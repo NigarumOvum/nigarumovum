@@ -1,5 +1,5 @@
-### Hi there, I'm [Brealy Padron](https://brealy-padron-portfolio-react.vercel.app/) 👋
-## an experienced Full-Stack Developer & Designer, based in Costa Rica.
+### Hi there, I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋
+## Systems Enginer Student and a Full-Stack Developer, based in Costa Rica.
 
 <h2 style="text-align: center;">This is my portfolio Web Site App:(https://brealy-padron-portfolio-react.vercel.app/) </h2> 
 
