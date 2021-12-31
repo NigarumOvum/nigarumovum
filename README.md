@@ -28,15 +28,11 @@
 [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone)[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:neighbordevcr@gmail.com)
 
 <!-- TODO: Add last video link -->
-
-- 🔭 I’m currently working at NeighborDev CR
 - 🤔 I’m looking for better oportunities and projects
 - 📫 How to reach me: neighbordevcr@gmail.com
 - ⚡ Fun fact: I play video games, touch the guitar/sing and learn new technologies very often.
 
-
 #### Top Technologies
-
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
