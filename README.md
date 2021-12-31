@@ -24,8 +24,9 @@
 </p>
 <p align = "center">
 
-### Top Technologies
+# Top Technologies
 </p>
+<p align = "center">
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -53,7 +54,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <img align="left" alt="k8S" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-</hr>
+</p>
 
 # Stats: 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nigarumovum.nigarumovum)
