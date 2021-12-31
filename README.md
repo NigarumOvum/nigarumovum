@@ -12,7 +12,7 @@
 - 🔭 My Portfolio:https://brealy-padron-portfolio-react.vercel.app/
 
 :mailbox: Reach me out!
-- 📫 How to reach me: neighbordevcr@gmail.com
+- 📫 neighbordevcr@gmail.com
 
 <p align = "center">
 
@@ -47,6 +47,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <img align="left" alt="k8S" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+</hr>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nigarumovum.nigarumovum)
 
