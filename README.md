@@ -1,5 +1,4 @@
-# Hi there, I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋
-## Systems Enginer Student and a Full-Stack Developer, based in San Jose, Costa Rica.
+# Hi there, I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋, a Systems Enginer Student and a Full-Stack Developer, based in San Jose, Costa Rica.
 ### I'm specialized with Front-end & Back-End Agile Development. I'm emdebed with DevOps & DevSecOps Culture.
 ### I can work with AWS, Azure, AWS cloud architectures.
 
