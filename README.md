@@ -1,4 +1,4 @@
-# Hi there, I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋, a Systems Enginer Student and a Full-Stack Developer, based in San Jose, Costa Rica.
+# Hi there, I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋, a Full-Stack Developer, based in San Jose, Costa Rica.
 ## I consider myself as a passionate computer science student, always curious and excited about the new technology trends.
 ## For the SDLC, I have experience building Web Applications based Waterfall/Agile methodologies with OOP (Object Oriented Programming), following DDD (domain-driven design), MVT (Model View Template), MVC (Model Views Controller), Hexagonal & Clean Architectures, also using Class-Based and Functional Programming.
 
