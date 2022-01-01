@@ -29,8 +29,8 @@
 
 
 # Top Technologies
-</p>
-<p align = "center">
+
+## Front-End:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -41,16 +41,38 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img align="left" alt="Django" width="26px" src="https://imgr.search.brave.com/ZKNMXfE64eK_WGX4yJd9c8IHRzWjiX_zs9rS0ucN5G8/fit/1200/1200/ce/1/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/Ni9EamFuZ28tTG9n/by0yMDQ4eDEyODAu/cG5n"/>
-
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
+<img align="left" alt="angular" width="26px" src="img/angular.png" />
+
+<img align="left" alt="graph" width="26px" src="img/graphql.png" />
+
+
+## Back-End: 
+
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img align="left" alt="Django" width="26px" src="https://imgr.search.brave.com/ZKNMXfE64eK_WGX4yJd9c8IHRzWjiX_zs9rS0ucN5G8/fit/1200/1200/ce/1/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/Ni9EamFuZ28tTG9n/by0yMDQ4eDEyODAu/cG5n"/>
+
+<img align="left" alt="mysql" width="26px" src="img/mysql.png" />
+
+<img align="left" alt="postgre" width="26px" src="img/postgresql.png" />
+
+<img align="left" alt="node" width="26px" src="img/nodejs.png" />
+
+<img align="left" alt="mongodb" width="26px" src="img/mongo.png" />
+
+## DevOps: 
+
+<img align="left" alt="git" width="26px" src="img/git.png" />
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-</p>
+<img align="left" alt="k8s" width="26px" src="img/k8s.png" />
+
+<img align="left" alt="devops" width="26px" src="img/devops.png" />
+
