@@ -49,9 +49,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
-<img align="left" alt="GraphQL" width="26px" src="https://www.pngfind.com/mpng/TJxmxm_i-wanted-to-give-graphql-a-shot-for" />
+<img align="left" alt="GraphQL" width="26px" src="https://www.pngfind.com/pngs/m/62-627254_i-wanted-to-give-graphql-a-shot-for.png" />
 
-<img align="left" alt="Linux" width="26px" src="https://www.pngegg.com/es/png-wpbox" />
+<img align="left" alt="Linux" width="26px" src="https://img2.freepng.es/20180330/oqw/kisspng-linux-unix-operating-systems-command-line-interfac-linux-5abe15b5486d08.3038287615224068372967.jpg" />
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
