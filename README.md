@@ -63,9 +63,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="postgre" width="26px" src="img/postgresql.png" />
 
-<img align="left" alt="node" width="26px" src="img/nodejs.png" />
+<img align="left" alt="node" width="50px" src="img/nodejs.png" />
 
-<img align="left" alt="mongodb" width="26px" src="img/mongodb.png" />
+<img align="left" alt="mongodb" width="50px" src="img/mongodb.png" />
 
 .
 
@@ -75,7 +75,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-<img align="left" alt="k8s" width="26px" src="img/k8s.png" />
+<img align="left" alt="k8s" width="50px" src="img/k8s.png" />
 
-<img align="left" alt="devops" width="26px" src="img/devops.png" />
+<img align="left" alt="devops" width="50px" src="img/devops.png" />
 
