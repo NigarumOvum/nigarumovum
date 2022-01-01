@@ -65,9 +65,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="node" width="26px" src="img/nodejs.png" />
 
-<img align="left" alt="mongodb" width="26px" src="img/mongo.png" />
+<img align="left" alt="mongodb" width="26px" src="img/mongodb.png" />
 
 .
+
 ## DevOps: 
 
 <img align="left" alt="git" width="26px" src="img/git.png" />
