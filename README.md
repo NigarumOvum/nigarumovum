@@ -41,7 +41,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img align="left" alt="Django" width="26px" src="https://imgr.search.brave.com/ZKNMXfE64eK_WGX4yJd9c8IHRzWjiX_zs9rS0ucN5G8/fit/1200/1200/ce/1/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/Ni9EamFuZ28tTG9n/by0yMDQ4eDEyODAu/cG5n" />
+<img align="left" alt="Django" width="26px" src="https://imgr.search.brave.com/ZKNMXfE64eK_WGX4yJd9c8IHRzWjiX_zs9rS0ucN5G8/fit/1200/1200/ce/1/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/Ni9EamFuZ28tTG9n/by0yMDQ4eDEyODAu/cG5n"/>
 
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
@@ -49,7 +49,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
-<img align="left" alt="GraphQL" width="26px" src="https://www.pngfind.com/mpng/TJxmxm_i-wanted-to-give-graphql-a-shot-for/" />
+<img align="left" alt="GraphQL" width="26px" src="https://www.pngfind.com/mpng/TJxmxm_i-wanted-to-give-graphql-a-shot-for" />
 
 <img align="left" alt="Linux" width="26px" src="https://www.pngegg.com/es/png-wpbox" />
 
@@ -57,5 +57,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-<img align="left" alt="k8S" width="26px" src="https://www.freepng.es/png-8j0o5v/" />
+<img align="left" alt="k8S" width="26px" src="https://www.freepng.es/png-8j0o5v" />
 </p>
