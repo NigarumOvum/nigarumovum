@@ -55,17 +55,17 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ## Back-End: 
 
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Django" width="26px" src="https://imgr.search.brave.com/ZKNMXfE64eK_WGX4yJd9c8IHRzWjiX_zs9rS0ucN5G8/fit/1200/1200/ce/1/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/Ni9EamFuZ28tTG9n/by0yMDQ4eDEyODAu/cG5n"/>
+<img align="left" alt="Django" width="60px" src="https://imgr.search.brave.com/ZKNMXfE64eK_WGX4yJd9c8IHRzWjiX_zs9rS0ucN5G8/fit/1200/1200/ce/1/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/Ni9EamFuZ28tTG9n/by0yMDQ4eDEyODAu/cG5n"/>
 
-<img align="left" alt="mysql" width="100px" src="img/mysql.png" />
+<img align="left" alt="mysql" width="70px" src="img/mysql.png" />
 
-<img align="left" alt="postgre" width="100px" src="img/postgresql.png" />
+<img align="left" alt="postgre" width="80px" src="img/postgresql.png" />
 
 <img align="left" alt="node" width="100px" src="img/nodejs.png" />
 
-<img align="left" alt="mongodb" width="100px" src="img/mongodb.png" />
+<img align="left" alt="mongodb" width="90px" src="img/mongodb.png" />
 
 .
 
