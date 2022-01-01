@@ -2,10 +2,6 @@
 ### I'm specialized with Front-end & Back-End Agile Development. I'm emdebed with DevOps & DevSecOps Culture.
 ### I can work with AWS, Azure, AWS cloud architectures.
 
-<h3 style="text-align: center;">This is my portfolio Web Site App:(https://brealy-padron-portfolio-react.vercel.app/) </h3> 
-
-<!-- TODO: Add last video link -->
-
 - 🤔 I’m looking for better oportunities and projects to growth my skills and gain experience.
 - ⚡ Fun fact: I play video games, play the guitar/sing and learn new technologies very often.
 - 🔭 My Portfolio: https://brealy-padron-portfolio-react.vercel.app/
