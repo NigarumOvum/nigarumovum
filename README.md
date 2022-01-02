@@ -4,9 +4,7 @@
 #### I'm specialized with Front-end & Back-End Agile Development. I'm emdebed with DevOps & DevSecOps Culture.
 
 # Top Technologies
-
 ## Front-End:
-
 ![html5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![css3](https://img.icons8.com/color/48/000000/css3.png)
 ![js](https://img.icons8.com/color/48/000000/javascript--v2.png)
@@ -16,17 +14,12 @@
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
 ![redux](https://img.icons8.com/color/48/000000/redux.png)
 ![graphql](https://img.icons8.com/color/48/000000/graphql.png)
-
-.
-
-
 ## Back-End: 
 ![python](https://img.icons8.com/color/48/000000/python.png)
 ![django](https://img.icons8.com/color/48/000000/django.png)
 ![node](https://img.icons8.com/color/48/000000/nodejs.png)
 ![express](https://img.icons8.com/fluency/48/000000/node-js.png)
 ![graphql](https://img.icons8.com/color/48/000000/graphql.png)
-
 ## Databases: 
 ![mysql](https://img.icons8.com/fluency/50/000000/mysql-logo.png)
 ![postgres](https://img.icons8.com/color/48/000000/postgreesql.png)
