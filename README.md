@@ -1,4 +1,4 @@
-### Hi there, hope you're doing well!. I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋, a Full-Stack Developer, based in San Jose, Costa Rica.
+## Hi, I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋, a Full-Stack Developer, based in San Jose, Costa Rica.
 ### I consider myself as a passionate computer science student, always curious and excited about the new technology trends.
 ### For the SDLC I have experience building Web Applications based Waterfall/Agile methodologies with OOP (Object Oriented Programming), following DDD (domain-driven design), MVT (Model View Template), MVC (Model Views Controller), Hexagonal & Clean Architectures, also using Class-Based and Functional Programming.
 #### I'm specialized with Front-end & Back-End Agile Development. I'm emdebed with DevOps & DevSecOps Culture.
@@ -39,8 +39,8 @@
 ![kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
 
 - 🤔 I’m looking for more oportunities, projects and startups to growth my skills and achieve more and more experience in many different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
-- ⚡ Fun facts: I really love play video games, play the guitar/sing, learn about science, go to the beach, learn new technologies very often.
-- I love the coffe ![cofee](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
+- ⚡ Fun facts: I really love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about science, go to the beach, learn new technologies very often.
+- I love the coffe ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
 - 🔭 My Portfolio: https://brealy-padron-portfolio-react.vercel.app/
 <p align = "center">
 
