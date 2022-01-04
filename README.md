@@ -49,7 +49,7 @@
 :mailbox: Reach me out!
 
 - neighbordevcr@gmail.com
-![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)  <a h=ref="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr"> Profile:</a>
+![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)  <a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr"> Profile:</a>
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
