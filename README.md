@@ -45,11 +45,13 @@
 - I love the coffe! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
 - 🔭 My Portfolio Website: https://brealy-padron-portfolio-react.vercel.app/
 - GH profile: https://github.com/nigarumovum/nigarumovum
+-  <a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr"> Brealy Padron Spotify Profile </a>
+![gh](https://img.icons8.com/cute-clipart/64/000000/github.png)  <a href="https://github.com/nigarumovum/nigarumovum"> Brealy Padron GH Profile </a>
 
 :mailbox: Reach me out!
 
 - neighbordevcr@gmail.com
-- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png) <a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr"> Profile:</a>
+- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png) <a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr"> Brealy Padron Spotify Profile </a>
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
