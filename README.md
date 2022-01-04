@@ -10,7 +10,7 @@
 ![vue](https://img.icons8.com/color/48/000000/vue-js.png)
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
 ![redux](https://img.icons8.com/color/48/000000/redux.png)
-![nuxt](https://img.icons8.com/color/48/000000/nuxt.png)
+![nuxt](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)
 ![Typescript](https://img.icons8.com/color/48/000000/typescript.png)
 ![graphql](https://img.icons8.com/color/48/000000/graphql.png)
 ## Back-End Technologies: 
