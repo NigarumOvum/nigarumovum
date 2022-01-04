@@ -1,7 +1,6 @@
-## Hi, I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋, a Full-Stack Developer, based in San Jose, Costa Rica.
+## Hi, I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋, a Full-Stack Developer Specialist, based in San Jose, Costa Rica.
 ### I consider myself as a passionate computer science student, always curious and excited about the new technology trends.
 ### For the SDLC I have experience building Web Applications based Waterfall/Agile methodologies with OOP (Object Oriented Programming), following DDD (domain-driven design), MVT (Model View Template), MVC (Model Views Controller), Hexagonal & Clean Architectures, also using Class-Based and Functional Programming.
-#### I'm specialized with Front-end & Back-End Agile Development. I'm emdebed with DevOps & DevSecOps Culture.
 
 ## Front-End Technologies:
 ![html5](https://img.icons8.com/color/48/000000/html-5--v1.png)
@@ -25,7 +24,7 @@
 ![postgres](https://img.icons8.com/color/48/000000/postgreesql.png)
 ![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)
 ![redis](https://img.icons8.com/color/48/000000/redis.png)
-## #Cloud Technologies:
+### Cloud Technologies:
 ![aws](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![azure](https://img.icons8.com/color/50/000000/azure-1.png)
 ![gcp](https://img.icons8.com/color/50/000000/google-cloud.png)
