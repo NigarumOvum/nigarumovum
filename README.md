@@ -10,7 +10,7 @@
 ![vue](https://img.icons8.com/color/48/000000/vue-js.png)
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
 ![redux](https://img.icons8.com/color/48/000000/redux.png)
-![nuxt](https://img.icons8.com/color/48/000000/redis.png)
+![nuxt](https://img.icons8.com/color/48/000000/nuxt.png)
 ![Typescript](https://img.icons8.com/color/48/000000/typescript.png)
 ![graphql](https://img.icons8.com/color/48/000000/graphql.png)
 ## Back-End Technologies: 
