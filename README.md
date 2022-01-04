@@ -7,11 +7,12 @@
 ![html5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![css3](https://img.icons8.com/color/48/000000/css3.png)
 ![js](https://img.icons8.com/color/48/000000/javascript--v2.png)
-![Typscript](https://img.icons8.com/color/48/000000/typescript.png)
 ![sass](https://img.icons8.com/color/48/000000/sass.png)
 ![vue](https://img.icons8.com/color/48/000000/vue-js.png)
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
 ![redux](https://img.icons8.com/color/48/000000/redux.png)
+![nuxt](https://img.icons8.com/color/48/000000/redis.png)
+![Typescript](https://img.icons8.com/color/48/000000/typescript.png)
 ![graphql](https://img.icons8.com/color/48/000000/graphql.png)
 ## Back-End Technologies: 
 ![python](https://img.icons8.com/color/48/000000/python.png)
@@ -23,6 +24,7 @@
 ![mysql](https://img.icons8.com/fluency/50/000000/mysql-logo.png)
 ![postgres](https://img.icons8.com/color/48/000000/postgreesql.png)
 ![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)
+![redis](https://img.icons8.com/color/48/000000/redis.png)
 ## #Cloud Technologies:
 ![aws](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![azure](https://img.icons8.com/color/50/000000/azure-1.png)
@@ -36,8 +38,9 @@
 ![docker](https://img.icons8.com/color/48/000000/docker.png)
 ![kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
 
-- 🤔 I’m looking for better oportunities and projects to growth my skills and gain experience.
-- ⚡ Fun fact: I play video games, play the guitar/sing and learn new technologies very often.
+- 🤔 I’m looking for more oportunities, projects and startups to growth my skills and achieve more and more experience in many different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
+- ⚡ Fun facts: I really love play video games, play the guitar/sing, learn about science, go to the beach, learn new technologies very often.
+- I love the coffe ![cofee](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
 - 🔭 My Portfolio: https://brealy-padron-portfolio-react.vercel.app/
 <p align = "center">
 
