@@ -33,7 +33,10 @@
 ![netlify](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png)
 ![redhat](https://img.icons8.com/color/48/000000/red-hat.png)
 ## DevOps Technologies: 
+![bash](https://img.icons8.com/plasticine/50/000000/bash.png)
+![linux](https://img.icons8.com/color/48/000000/linux--v1.png)
 ![git](https://img.icons8.com/color/48/000000/git.png)
+![ansible](https://img.icons8.com/color/48/000000/ansible.png)
 ![docker](https://img.icons8.com/color/48/000000/docker.png)
 ![kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
 
