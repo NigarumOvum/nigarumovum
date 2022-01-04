@@ -19,23 +19,18 @@
 ![node](https://img.icons8.com/color/48/000000/nodejs.png)
 ![express](https://img.icons8.com/fluency/48/000000/node-js.png)
 ![graphql](https://img.icons8.com/color/48/000000/graphql.png)
-## Database Technologies: 
+### Database Technologies: 
 ![mysql](https://img.icons8.com/fluency/50/000000/mysql-logo.png)
 ![postgres](https://img.icons8.com/color/48/000000/postgreesql.png)
 ![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)
-
-## Cloud Technologies:
+## #Cloud Technologies:
 ![aws](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![azure](https://img.icons8.com/color/50/000000/azure-1.png)
 ![gcp](https://img.icons8.com/color/50/000000/google-cloud.png)
 ![digitalo](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-shadow-tal-revivo.png)
 ![heroku](https://img.icons8.com/color/48/000000/heroku.png)
-![netlify](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png)
+![netlify](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png)
 ![redhat](https://img.icons8.com/color/48/000000/red-hat.png)
-
-
-
-
 ## DevOps Technologies: 
 ![git](https://img.icons8.com/color/48/000000/git.png)
 ![docker](https://img.icons8.com/color/48/000000/docker.png)
@@ -51,14 +46,8 @@
 
 - neighbordevcr@gmail.com
 
-<p align = "center">
-
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
 
-</p>
-<p align = "center">
- 
-  
 # Stats: 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nigarumovum.nigarumovum)
 
