@@ -6,6 +6,7 @@
 ![html5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![css3](https://img.icons8.com/color/48/000000/css3.png)
 ![js](https://img.icons8.com/color/48/000000/javascript--v2.png)
+![jquery](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png)
 ![sass](https://img.icons8.com/color/48/000000/sass.png)
 ![vue](https://img.icons8.com/color/48/000000/vue-js.png)
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
@@ -13,6 +14,14 @@
 ![nuxt](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)
 ![Typescript](https://img.icons8.com/color/48/000000/typescript.png)
 ![graphql](https://img.icons8.com/color/48/000000/graphql.png)
+
+### CMS: 
+![wordp](https://img.icons8.com/color/50/000000/wordpress.png)
+![drupal](https://img.icons8.com/color/50/000000/drupal.png)
+![Magento](https://img.icons8.com/color/50/000000/magento.png)
+![shopify](https://img.icons8.com/color/48/000000/shopify.png)
+![Joomla](https://img.icons8.com/color/48/000000/joomla.png)
+
 ## Back-End Technologies: 
 ![python](https://img.icons8.com/color/48/000000/python.png)
 ![django](https://img.icons8.com/color/48/000000/django.png)
