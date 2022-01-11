@@ -1,5 +1,5 @@
 ## Hi, I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋, a Full-Stack Developer Specialist, based in San Jose, Costa Rica.
-### I consider myself as a passionate computer science student, always curious and excited about the new technology trends with a relentless attention to details. With strong bias for action and ability to operate independently, communication and orga.
+### I consider myself as a passionate computer science student, always curious and excited about the new technology trends with a relentless attention to details. With strong bias for action and ability to operate independently, communication and orgation skills with an ability to thrive in a fast-paced production deadline-driven environment.
 ### For the SDLC I have experience with Waterfall / Agile / Kanban / extreme Programming and DevOps (CI/CD) methodology models. I have experience building Web Applications using OOP (Object Oriented Programming), following DDD (domain-driven design), MVT (Model View Template), MVC (Model Views Controller), Hexagonal & Clean Architectures, also using Class-Based and Functional Programming.
 ### For the STLC I have experience with manual & automated tests at functional, non-functional & maintenance macro-level.
 
