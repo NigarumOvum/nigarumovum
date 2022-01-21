@@ -58,7 +58,7 @@
 -  Portfolio Website:<a href="https://brealy-padron-portfolio-react.vercel.app//"> Portfolio </a> 
 - ![gh](https://img.icons8.com/cute-clipart/24/000000/github.png) Profile: <a href="https://github.com/nigarumovum/nigarumovum"> Brealy Padron GH Profile </a>
 - ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png) Profile: <a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr"> Brealy Padron Spotify Profile </a>
-ChatApp: <a href="https://chat-nodeexpect.herokuapp.com/"> Chat </a>
+- ![ChatApp] ChatApp: <a href="https://chat-nodeexpect.herokuapp.com/"> Chat </a>
 
 :mailbox: Reach me out!
 
