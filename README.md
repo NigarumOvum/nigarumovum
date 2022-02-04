@@ -89,5 +89,5 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
 
 # Stats: 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nigarumovum.nigarumovum)
+![visitors](https://camo.githubusercontent.com/e8b71ba160c3918ec092a329c33270870dc8d3419700160ede22d95f2f9e0fd9/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6e69676172756d6f76756d2e6e69676172756d6f76756d)
 
