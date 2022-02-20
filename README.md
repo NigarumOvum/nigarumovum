@@ -77,8 +77,8 @@
 - ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png) Profile: <a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr"> Brealy Padron Spotify Profile </a>
 - ChatApp: <a href="https://chat-nodeexpect.herokuapp.com/"> Chat </a>
 - TatorApp: <a href="https://tarotly-react.vercel.app/"> Tarot </a>
-- Radion v1: <a href="https://radion-react.vercel.app"> Tarot </a>
-- Radion v2: <a href="https://radion.vercel.app/"> Tarot </a>
+- Radion v1: <a href="https://radion-react.vercel.app"> Radion v2 </a>
+- Radion v2: <a href="https://radion.vercel.app/"> Radion v2 </a>
 
 radion.vercel.app
 ## 🌐Socials
