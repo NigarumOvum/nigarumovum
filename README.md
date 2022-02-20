@@ -6,11 +6,12 @@
 ![js](https://img.icons8.com/color/48/000000/javascript--v2.png)
 ![jquery](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png)
 ![sass](https://img.icons8.com/color/48/000000/sass.png)
-![vue](https://img.icons8.com/color/48/000000/vue-js.png)
+![Vue](https://img.icons8.com/color/48/000000/vue-js.png)
+![NuxtJS](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
-![redux](https://img.icons8.com/color/48/000000/redux.png)
-![nuxt](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)
+![NextJS](https://img.icons8.com/ios-filled/50/000000/circled-chevron-up.png)
 ![Typescript](https://img.icons8.com/color/48/000000/typescript.png)
+![redux](https://img.icons8.com/color/48/000000/redux.png)
 ![graphql](https://img.icons8.com/color/48/000000/graphql.png)
 
 ### CMS: 
@@ -76,6 +77,10 @@
 - ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png) Profile: <a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr"> Brealy Padron Spotify Profile </a>
 - ChatApp: <a href="https://chat-nodeexpect.herokuapp.com/"> Chat </a>
 - TatorApp: <a href="https://tarotly-react.vercel.app/"> Tarot </a>
+- Radion v1: <a href="https://radion-react.vercel.app"> Tarot </a>
+- Radion v2: <a href="https://radion.vercel.app/"> Tarot </a>
+
+radion.vercel.app
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bfpr131095/) 
 
