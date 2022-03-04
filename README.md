@@ -8,9 +8,13 @@
 
 ## 🌐Socials
 - Portfolio Website:<a href="https://brealy-padron-portfolio-react.vercel.app//">Portfolio</a> 
-- Follow me: ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Brealy Padron Spotify</a>
 - :mailbox: neighbordevcr@gmail.com
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
+- Follow me: ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Brealy Padron's Spotify</a>
+- ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png) FabPadron</a>
+<img src=""/>
+
+- Yugi Oh! Duel Links: nigarumovum
 
 [![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)](https://visitcount.itsvg.in)
 
