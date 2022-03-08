@@ -10,6 +10,7 @@
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
 - Portfolio Website:<a href="https://brealy-padron-portfolio-react.vercel.app//">Portfolio</a> 
 - :mailbox: bfpr131095@gmail.com
+- Calendly Schedule: (https://calendly.com/bfpr131095/15min)
 - Follow me: ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Brealy Padron's Spotify</a>
 - ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png) FabPadron</a>
 - Yugi Oh! Duel Links: nigarumovum
