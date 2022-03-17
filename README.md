@@ -8,14 +8,14 @@
 
 ## 🌐 Socials
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
-- Portfolio Website:<a href="https://brealy-padron-portfolio-react.vercel.app/">Portfolio</a> 
 - :mailbox: bfpr131095@gmail.com
--Calendly Schedule:<a href="https://calendly.com/bfpr131095/15min">Calendly Schedule</a> 
-- Facetime Call:<a href="https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ">Facetime Call</a> 
+- Portfolio Website:<a href="https://brealy-padron-portfolio-react.vercel.app/">Portfolio</a> 
+- Calendly:<a href="https://calendly.com/bfpr131095/15min">Schedule</a> 
+- Facetime:<a href="https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ">Call</a> 
 
 ## 🕹 Video Games
 
-- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Brealy Padron's Spotify</a>
+- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
 - ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png):  FabPadron </a>
 - Counter Strike Global Offensive: nigarumovum
 - Yugi Oh! Duel Links: nigarumovum
