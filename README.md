@@ -14,10 +14,14 @@
 - Facetime: (https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ)
 - Follow me: ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Brealy Padron's Spotify</a>
 - ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png) FabPadron</a>
+- Counter Strike: nigarumovum
 - Yugi Oh! Duel Links: nigarumovum
 
-[![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)](https://visitcount.itsvg.in)
-
+## 💰You can help me by Donating
+- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/nigarumovum) 
+- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/neighbordevcr) 
+- 
+[![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 
 # 💻Tech Stack
 ## Front-End Technologies:
@@ -102,6 +106,3 @@
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-## 💰You can help me by Donating
-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/nigarumovum) 
-- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/neighbordevcr) 
