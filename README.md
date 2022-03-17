@@ -18,8 +18,8 @@
 
 - ![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-logo.png) nigarumovum#6819
 - ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png)  FabPadron
-- Counter Strike Global Offensive: nigarumovum
-- Yugi Oh! Duel Links: nigarumovum
+- ![CSGO](https://img.icons8.com/nolan/64/counter-strike.png) nigarumovum
+- ![YugiOh](https://img.icons8.com/color/48/000000/millennium-rod.png)Duel Links: nigarumovum
 
 ## 💰You can help me by Donating
 - [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nigarumovum) 
