@@ -14,7 +14,7 @@
 - Facetime: (https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ)
 - Follow me: ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Brealy Padron's Spotify</a>
 - ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png) FabPadron</a>
-- Counter Strike: nigarumovum
+- Counter Strike Global Offensive: nigarumovum
 - Yugi Oh! Duel Links: nigarumovum
 
 ## 💰You can help me by Donating
