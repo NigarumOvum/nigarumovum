@@ -12,11 +12,11 @@
 - Portfolio Website:<a href="https://brealy-padron-portfolio-react.vercel.app/">Open</a> 
 - Calendly:<a href="https://calendly.com/bfpr131095/15min">Schedule</a> 
 - Facetime:<a href="https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ">Call</a> 
+- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
 
 ## 🕹 Video Games
 
-- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
-- ![Discord](https://icons8.com/icon/RLJfWOxNk8Bc/discord): Discord nigarumovum#6819
+- (https://img.icons8.com/cute-clipart/64/000000/discord-logo.png): nigarumovum#6819
 - ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png):  FabPadron
 - Counter Strike Global Offensive: nigarumovum
 - Yugi Oh! Duel Links: nigarumovum
