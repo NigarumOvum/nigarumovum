@@ -16,7 +16,8 @@
 ## 🕹 Video Games
 
 - ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
-- ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png):  FabPadron </a>
+- ![Discord](https://icons8.com/icon/RLJfWOxNk8Bc/discord): Discord nigarumovum#6819
+- ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png):  FabPadron
 - Counter Strike Global Offensive: nigarumovum
 - Yugi Oh! Duel Links: nigarumovum
 
