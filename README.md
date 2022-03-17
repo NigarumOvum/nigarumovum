@@ -16,8 +16,8 @@
 
 ## 🕹 Video Games
 
-- (https://img.icons8.com/cute-clipart/64/000000/discord-logo.png): nigarumovum#6819
-- ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png):  FabPadron
+- ![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-logo.png) nigarumovum#6819
+- ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png)  FabPadron
 - Counter Strike Global Offensive: nigarumovum
 - Yugi Oh! Duel Links: nigarumovum
 
