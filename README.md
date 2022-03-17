@@ -9,7 +9,7 @@
 ## 🌐 Socials
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
 - :mailbox: bfpr131095@gmail.com
-- Portfolio Website:<a href="https://brealy-padron-portfolio-react.vercel.app/">Portfolio</a> 
+- Portfolio Website:<a href="https://brealy-padron-portfolio-react.vercel.app/">Open</a> 
 - Calendly:<a href="https://calendly.com/bfpr131095/15min">Schedule</a> 
 - Facetime:<a href="https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ">Call</a> 
 
