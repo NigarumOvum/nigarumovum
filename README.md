@@ -1,5 +1,4 @@
-## Hi, I'm [Brealy Padron Rodriguez](https://github.com/NigarumOvum/) 👋, a Full-Stack Developer Specialist, based in San Jose, Costa Rica![image](https://user-images.githubusercontent.com/48064359/159385658-50e3f38b-e1ed-49b5-bb20-1304d3913354.png)
-
+## Hi, I'm [Brealy Padron Rodriguez](https://github.com/NigarumOvum/) 👋, a Full-Stack Developer Specialist, based in San Jose, Costa Rica!
 # About me:
 
 - � I’m looking for amazing projects and challenges to growth my skills and achieve more experience with different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
