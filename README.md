@@ -6,10 +6,13 @@
 - I love the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
 
 ## 🕹 Video Games
-
 - ![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-logo.png) nigarumovum#6819
+- ![Steam](https://img.icons8.com/fluency/48/000000/steam.png) nigarumovum
 - ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png)  FabPadron
 - ![CSGO](https://img.icons8.com/nolan/64/counter-strike.png) nigarumovum
+- ![PubG](https://img.icons8.com/fluency/48/000000/pubg.png) nigarumovumcr
+- ![GenshinImpact](https://img.icons8.com/fluency/48/000000/genshin-impact-logo.png) nigarumovum
+- ![Smite](https://img.icons8.com/nolan/64/smite.pn) Kryzard
 - ![YugiOh](https://img.icons8.com/color/48/000000/millennium-rod.png)Duel Links: nigarumovum
 
 ## 🌐 Contact
