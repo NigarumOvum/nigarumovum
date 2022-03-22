@@ -12,7 +12,7 @@
 - ![CSGO](https://img.icons8.com/nolan/64/counter-strike.png) nigarumovum
 - ![PubG](https://img.icons8.com/fluency/48/000000/pubg.png) nigarumovumcr
 - ![GenshinImpact](https://img.icons8.com/fluency/48/000000/genshin-impact-logo.png) nigarumovum
-- ![Smite](https://img.icons8.com/nolan/64/smite.pn) Kryzard
+- ![Smite](https://img.icons8.com/nolan/64/smite.png) Kryzard
 - ![YugiOh](https://img.icons8.com/color/48/000000/millennium-rod.png)Duel Links: nigarumovum
 
 ## 🌐 Contact
