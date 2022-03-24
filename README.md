@@ -2,14 +2,16 @@
 
 # About me:
 
+- ⚡️ Fun facts: I really love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), play the guitar and sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), read and learn about science and how the world works! ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), I like going to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png) and mountains 🌄, learn new technological trends very often.
+
+- I love the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
+
+- ⚗️ Every day I try to learn new technological, try features to develop, look and discover alternate approaches to reach them and automate as much as posible the workflow: design, development, deployment and monitoring.
+
 - ✨ I’m looking for amazing projects and challenges to growth my skills and achieve more experience with different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
 
 - ☄️ You can look at my poortfolio website and stay tune of the main projects I'll be deploying:
 [Portfolio](https://brealy-padron-portfolio-react.vercel.app)
-
-- ⚡️ Fun facts: I really love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about science ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), go to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png), learn new technological trends very often.
-
-- I love the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
 
 ## 🕹 Video Games
 - ![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-logo.png) nigarumovum#6819
