@@ -14,7 +14,7 @@
 [Portfolio](https://brealy-padron-portfolio-react.vercel.app)
 
 ## 🕹 Video Games
-- ![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-logo.png) nigarumovum#6819
+- ![Discord](https://img.icons8.com/cute-clipart/48/000000/discord-logo.png) nigarumovum#6819
 - ![Steam](https://img.icons8.com/fluency/48/000000/steam.png) nigarumovum
 - ![EpicGames](https://img.icons8.com/cute-clipart/48/000000/epic-games--v1.png) nigarumovum
 - ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png)  FabPadron
