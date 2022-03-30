@@ -18,7 +18,7 @@
 - ![Steam](https://img.icons8.com/fluency/48/000000/steam.png) nigarumovum
 - ![EpicGames](https://img.icons8.com/cute-clipart/48/000000/epic-games--v1.png) nigarumovum
 - ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png)  FabPadron
-- ![Xbox](htps://img.icons8.com/fluency/48/000000/xbox.png)  FabPadron
+- ![Xbox](https://img.icons8.com/fluency/48/000000/xbox.png)  FabPadron
 - ![CSGO](https://img.icons8.com/nolan/48/counter-strike.png) nigarumovum
 - ![PubG](https://img.icons8.com/fluency/48/000000/pubg.png) nigarumovumcr
 - ![GenshinImpact](https://img.icons8.com/fluency/48/000000/genshin-impact-logo.png) nigarumovum
