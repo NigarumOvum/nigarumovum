@@ -4,7 +4,7 @@
 
 - ⚡️ Fun facts: I really love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about how the world works! ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), I like going to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png) and mountains 🌄. And keep myself healthy in the GYM and exercise.
 
-- ⚗️ Every day I try to learn new technological trends, try features to develop, look and discover alternate approaches to reach them and automate as much as posible the workflow: design, development, deployment and monitoring.
+- ⚗️ Every day I try to learn new technological trends, features to develop, lookup alternate approaches & automate as much as posible the workflow: design, development, testing, deployment and monitoring.
 
 - I love the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
 
@@ -41,13 +41,13 @@
 - [Book-Freak](https://vercel.com/nigarumovum/book-freak-react)
 - [Movie-Finder](https://vercel.com/nigarumovum/movie-finder-react)
 - [NASA-Explorer](https://vercel.com/nigarumovum/nasa-app-api)
+- 
 ## 🌐 Contact
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
 - :mailbox: bfpr131095@gmail.com
 - Calendly:<a href="https://calendly.com/bfpr131095/15min">Schedule</a> 
 - Facetime:<a href="https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ">Call</a> 
 - ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
-
 
 ## 💰You can help me by Donating
 - [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nigarumovum) 
