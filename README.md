@@ -25,6 +25,22 @@
 - ![Smite](https://img.icons8.com/nolan/48/smite.png) Kryzard
 - ![YugiOh](https://img.icons8.com/color/48/000000/millennium-rod.png)Duel Links: nigarumovum
 
+## Projects
+
+- [Portfolio](https://vercel.com/nigarumovum/brealy-padron-portfolio-react)
+- [Portfolio MACOS](https://vercel.com/nigarumovum/mac-os-desktop-app-react)
+- [Tarotly](https://vercel.com/nigarumovum/tarotly-react)
+- [Radion](https://vercel.com/nigarumovum/radion-react)
+- [Radion2](https://vercel.com/nigarumovum/radion2)
+- [WebApps](https://vercel.com/nigarumovum/web-apps-games)
+- [Lyrics-browser](https://vercel.com/nigarumovum/lyric-search)
+- [Meal-Finder](https://vercel.com/nigarumovum/meal-finder)
+- [Exchange-rate](https://vercel.com/nigarumovum/exchange-rate)
+- [Exprense-Tracker](https://vercel.com/nigarumovum/expense-tracker)
+- [Tripping CR](https://vercel.com/nigarumovum/travel-costa-rica-react)
+- [Book-Freak](https://vercel.com/nigarumovum/book-freak-react)
+- [Movie-Finder](https://vercel.com/nigarumovum/movie-finder-react)
+- [NASA-Explorer](https://vercel.com/nigarumovum/nasa-app-api)
 ## 🌐 Contact
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
 - :mailbox: bfpr131095@gmail.com
