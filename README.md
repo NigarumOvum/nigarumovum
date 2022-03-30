@@ -16,11 +16,13 @@
 ## 🕹 Video Games
 - ![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-logo.png) nigarumovum#6819
 - ![Steam](https://img.icons8.com/fluency/48/000000/steam.png) nigarumovum
+- ![EpicGames](https://img.icons8.com/cute-clipart/48/000000/epic-games--v1.png) nigarumovum
 - ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png)  FabPadron
-- ![CSGO](https://img.icons8.com/nolan/64/counter-strike.png) nigarumovum
+- ![Xbox](htps://img.icons8.com/fluency/48/000000/xbox.png)  FabPadron
+- ![CSGO](https://img.icons8.com/nolan/48/counter-strike.png) nigarumovum
 - ![PubG](https://img.icons8.com/fluency/48/000000/pubg.png) nigarumovumcr
 - ![GenshinImpact](https://img.icons8.com/fluency/48/000000/genshin-impact-logo.png) nigarumovum
-- ![Smite](https://img.icons8.com/nolan/64/smite.png) Kryzard
+- ![Smite](https://img.icons8.com/nolan/48/smite.png) Kryzard
 - ![YugiOh](https://img.icons8.com/color/48/000000/millennium-rod.png)Duel Links: nigarumovum
 
 ## 🌐 Contact
