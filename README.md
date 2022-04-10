@@ -83,19 +83,9 @@ I'm a Computer Science Engineering & Full-Stack Developer Specialist based in Co
 ![Joomla](https://img.icons8.com/color/48/000000/joomla.png)
 
 ## Back-End Technologies: 
-![python](https://img.icons8.com/color/48/000000/python.png)
-![django](https://img.icons8.com/color/48/000000/django.png)
-![node](https://img.icons8.com/color/48/000000/nodejs.png)
-![express](https://img.icons8.com/fluency/48/000000/node-js.png)
-![graphql](https://img.icons8.com/color/48/000000/graphql.png)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Database Technologies: 
-![mysql](https://img.icons8.com/fluency/50/000000/mysql-logo.png)
-![postgres](https://img.icons8.com/color/48/000000/postgreesql.png)
-![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)
-![redis](https://img.icons8.com/color/48/000000/redis.png)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ### Cloud Technologies:
