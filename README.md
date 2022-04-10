@@ -1,15 +1,21 @@
-## Hi👋, I'm [Brealy Padrón Rodríguez](https://github.com/NigarumOvum/), a Computer Science Engineering & Full-Stack Developer Specialist based in Costa Rica! 🇨🇷🧑🏻‍💻
+# Hi👋, Here [Brealy Padrón Rodríguez](https://github.com/NigarumOvum/)
+I'm a Computer Science Engineering & Full-Stack Developer Specialist based in Costa Rica! 🇨🇷🧑🏻‍💻
 
 # About me:
 
-- ⚡️ Fun facts: I really love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about how the world works! ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), I like going to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png) and mountains 🌄. And keep myself healthy in the GYM and exercise.
+- ⚡️ I really love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about how the world works! ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), I like going to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png) and mountains 🌄. And keep myself healthy in the GYM and exercise.
 
 - ⚗️ Every day I try to learn new technological trends, features to develop, lookup alternate approaches & automate as much as posible the workflow: design, development, testing, deployment and monitoring.
 
 - ✨ I’m looking for amazing projects and challenges to growth my skills and achieve more experience with different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
 
-- ☄️ You can look at my poortfolio website and stay tune of the main projects I'll be deploying:
-[Portfolio](https://brealy-padron-portfolio-react.vercel.app)
+## 🌐 Contact
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
+- :mailbox: bfpr131095@gmail.com
+- Calendly:<a href="https://calendly.com/bfpr131095/15min">Schedule</a> 
+- Facetime:<a href="https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ">Call</a> 
+- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
+
 
 ## 🕹 Video Games
 - ![Discord](https://img.icons8.com/cute-clipart/48/000000/discord-logo.png) nigarumovum#6819
@@ -25,27 +31,21 @@
 
 ## Projects
 
-- [Portfolio](https://vercel.com/nigarumovum/brealy-padron-portfolio-react)
-- [Portfolio MACOS](https://vercel.com/nigarumovum/mac-os-desktop-app-react)
-- [Tarotly](https://vercel.com/nigarumovum/tarotly-react)
-- [Radion](https://vercel.com/nigarumovum/radion-react)
-- [Radion2](https://vercel.com/nigarumovum/radion2)
-- [WebApps](https://vercel.com/nigarumovum/web-apps-games)
-- [Lyrics-browser](https://vercel.com/nigarumovum/lyric-search)
-- [Meal-Finder](https://vercel.com/nigarumovum/meal-finder)
-- [Exchange-rate](https://vercel.com/nigarumovum/exchange-rate)
-- [Exprense-Tracker](https://vercel.com/nigarumovum/expense-tracker)
-- [Tripping CR](https://vercel.com/nigarumovum/travel-costa-rica-react)
-- [Book-Freak](https://vercel.com/nigarumovum/book-freak-react)
-- [Movie-Finder](https://vercel.com/nigarumovum/movie-finder-react)
-- [NASA-Explorer](https://vercel.com/nigarumovum/nasa-app-api)
-- 
-## 🌐 Contact
-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
-- :mailbox: bfpr131095@gmail.com
-- Calendly:<a href="https://calendly.com/bfpr131095/15min">Schedule</a> 
-- Facetime:<a href="https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ">Call</a> 
-- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
+- [Portfolio](https://brealypadronrodriguez.vercel.app/)
+- [Portfolio MACOS](https://mac-os-desktop-app-react.vercel.app/)
+- [Tecnoelectro Comercio Online](https://tecnoelectrocomercioonline.com/)
+- [Skin Thing](https://skinthingcr.herokuapp.com/)
+- [Tarotly](https://tarotly-react.vercel.app/)
+- [Lyrics-browser](https://lyric-search-eosin.vercel.app/)
+- [Meal-Finder](https://meal-finder-sandy.vercel.app/)
+- [Exchange-rate Calculator](https://exchange-rate-tau.vercel.app/)
+- [Exprense-Tracker](https://expense-tracker-vert.vercel.app/)
+- [Tripping CR](https://tripincr.vercel.app/)
+- [Book-Freak](https://book-freak-react.vercel.app/)
+- [Movie-Finder](https://movie-finder-react-brealy.vercel.app/)
+- [NASA-Explorer](https://nasa-app-api.vercel.app/)
+- [Chat](https://chat-nodeexpect.herokuapp.com/)
+
 
 ## 💰You can help me by Donating
 - [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nigarumovum) 
@@ -135,4 +135,4 @@
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+## Hi👋, I'm [Brealy Padrón Rodríguez](https://github.com/NigarumOvum/), a Computer Science Engineering & Full-Stack Developer Specialist based in Costa Rica! 🇨🇷🧑🏻‍💻
