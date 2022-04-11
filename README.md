@@ -3,11 +3,13 @@ I'm a Computer Science Engineering & Full-Stack Developer Specialist based in Co
 
 # About me:
 
-- ⚡️ I really love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about how the world works! ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), I like going to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png) and mountains 🌄. And keep myself healthy in the GYM and exercise.
+- ⚡️ I really love linux, play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about how the world works! ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), I like going to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png) and mountains 🌄. And keep myself healthy in the GYM and exercise.
 
 - ⚗️ Every day I try to learn new technological trends, features to develop, lookup alternate approaches & automate as much as posible the workflow: design, development, testing, deployment and monitoring.
 
 - ✨ I’m looking for amazing projects and challenges to growth my skills and achieve more experience with different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
+
+-  I want to learn WebAssembly, BlockChain, Ethical Hacking in deep asie with DevSevOps.
 
 ## 🌐 Contact
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
