@@ -11,7 +11,7 @@ I'm a Computer Science Engineering & Full-Stack Developer Specialist based in Co
 
 - I'm developing Personal Project with the next technologies: FastAPI, Vue/Nuxt, React/Next, TypeScript, Apolo/GraphQL, 
 
--  I want to learn Angular, Ruby On Rails, Go for DevOps and WebAssembly, Solid, C++ * .NET, Ethical Hacking in deep aside with DevSevOps.
+-  I want to learn Angular, Ruby On Rails, Go for DevOps and WebAssembly, Solid, C++ & .NET, Ethical Hacking in deep aside with DevSevOps.
 
 ## 🌐 Contact
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
