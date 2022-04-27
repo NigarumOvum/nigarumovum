@@ -114,4 +114,3 @@ I'm a Computer Science Engineering & Full-Stack Developer Specialist based in Co
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-## Hi👋, I'm [Brealy Padrón Rodríguez](https://github.com/NigarumOvum/), a Computer Science Engineering & Full-Stack Developer Specialist based in Costa Rica! 🇨🇷🧑🏻‍💻
