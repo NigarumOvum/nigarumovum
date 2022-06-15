@@ -1,4 +1,4 @@
-# Hi👋, Here [Brealy Padrón Rodríguez]([https://github.com/NigarumOvum/](https://brealypadronrodriguez.vercel.app/))
+# Hi👋, Here [Brealy Padrón Rodríguez][https://github.com/NigarumOvum/](https://brealypadronrodriguez.vercel.app/)
 I'm a Computer Science Engineering & Full-Stack Developer Specialist based in Costa Rica! 🇨🇷🧑🏻‍💻
 
 # About me:
