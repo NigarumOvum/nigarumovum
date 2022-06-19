@@ -32,7 +32,7 @@ I'm a Computer Science Engineering & Full-Stack Developer Specialist based in Co
 - ![GenshinImpact](https://img.icons8.com/fluency/48/000000/genshin-impact-logo.png) nigarumovum
 - ![Smite](https://img.icons8.com/nolan/48/smite.png) Kryzard
 - ![YugiOh](https://img.icons8.com/color/48/000000/millennium-rod.png)Duel Links: nigarumovum
-
+<!-- 
 ## Projects
 
 - [Portfolio](https://brealypadronrodriguez.vercel.app/)
@@ -48,7 +48,7 @@ I'm a Computer Science Engineering & Full-Stack Developer Specialist based in Co
 - [Book-Freak](https://book-freak-react.vercel.app/)
 - [Movie-Finder](https://movie-finder-react-brealy.vercel.app/)
 - [NASA-Explorer](https://nasa-app-api.vercel.app/)
-- [Chat](https://chat-nodeexpect.herokuapp.com/)
+- [Chat](https://chat-nodeexpect.herokuapp.com/) -->
 
 
 ## 💰You can help me by Donating
