@@ -22,15 +22,15 @@ I'm a Computer Science Engineering & Full-Stack Developer Specialist based in Co
 
 
 ## 🕹 Video Games
+- ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png)  FabPadron
+- ![Xbox](https://img.icons8.com/fluency/48/000000/xbox.png)  FabPadron
 - ![Discord](https://img.icons8.com/cute-clipart/48/000000/discord-logo.png) nigarumovum#6819
 - ![Steam](https://img.icons8.com/fluency/48/000000/steam.png) nigarumovum
 - ![EpicGames](https://img.icons8.com/cute-clipart/48/000000/epic-games--v1.png) nigarumovum
-- ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png)  FabPadron
-- ![Xbox](https://img.icons8.com/fluency/48/000000/xbox.png)  FabPadron
-- ![CSGO](https://img.icons8.com/nolan/48/counter-strike.png) nigarumovum
-- ![PubG](https://img.icons8.com/fluency/48/000000/pubg.png) nigarumovumcr
-- ![GenshinImpact](https://img.icons8.com/fluency/48/000000/genshin-impact-logo.png) nigarumovum
+- ![PubG](https://img.icons8.com/fluency/48/000000/pubg.png) nigarumovum
 - ![Smite](https://img.icons8.com/nolan/48/smite.png) Kryzard
+- ![CSGO](https://img.icons8.com/nolan/48/counter-strike.png) nigarumovum
+- ![GenshinImpact](https://img.icons8.com/fluency/48/000000/genshin-impact-logo.png) nigarumovum
 - ![YugiOh](https://img.icons8.com/color/48/000000/millennium-rod.png)Duel Links: nigarumovum
 <!-- 
 ## Projects
