@@ -1,6 +1,9 @@
 # Hi👋, Here [Brealy Padrón Rodríguez]([https://github.com/NigarumOvum/](https://brealypadronrodriguez.vercel.app/))
-I'm a Computer Science Engineering & Full-Stack Developer Specialist based in Costa Rica! 🇨🇷🧑🏻‍💻
+...a Computer Science Engineer & Full-Stack Developer Specialist based in Costa Rica! 🇨🇷🧑🏻‍💻 
 
+I’m ravenous of knowledge so I always enjoy learn the trends and new stuff related to my career so it allows to enhance my skills each day.  
+
+My experience Ranges from Full Stack Software Development in fast-paced environments so I'm always striving in the SDLC process to bring great value to the product. Always aware and taking care of security, architectural and design patterns. 
 # About me:
 
 - ⚡️ I really love automation, linux, play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about how the world works! ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), I like going to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png) and mountains 🌄. And keep myself healthy in the GYM and exercise.
