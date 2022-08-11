@@ -8,8 +8,6 @@
 
 - 📚 I’m ravenous of knowledge so I always enjoy learn the trends and new stuff related to my career so it allows to enhance my skills each day.  
 
-- ⚗️ ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
-
 - <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a> 
 
 ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
