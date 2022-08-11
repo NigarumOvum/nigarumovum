@@ -11,13 +11,13 @@ I’m ravenous of knowledge so I always enjoy learn the trends and new stuff rel
 
 - ✨ I’m looking for amazing projects and challenges to growth my skills and achieve more experience with different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
 
-## 🌐 Contact
-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
-- :mailbox: bfpr131095@gmail.com
-- Calendly:<a href="https://calendly.com/bfpr131095/15min">Schedule</a> 
-- Facetime:<a href="https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ">Call</a> 
-- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
+- <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a> 
 
+![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
+
+## Social Links:
+- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
+- Calendly: <a href="https://calendly.com/bfpr131095/15min">Schedule</a> 
 
 ## 🕹 Video Games
 - ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png)  FabPadron
@@ -53,7 +53,6 @@ I’m ravenous of knowledge so I always enjoy learn the trends and new stuff rel
 - [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nigarumovum) 
 - [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/neighbordevcr) 
 
-![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 
 # 💻Tech Stack
 ## Front-End Technologies:
