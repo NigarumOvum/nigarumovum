@@ -16,46 +16,6 @@
 
 ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 
-## Social Links:
-- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
-- Calendly: <a href="https://calendly.com/bfpr131095/15min">Schedule</a> 
-
-## 🕹 Video Games
-- ![PlayStation](https://img.icons8.com/color/48/000000/play-station.png)  FabPadron
-- ![Xbox](https://img.icons8.com/fluency/48/000000/xbox.png)  FabPadron
-- ![Discord](https://img.icons8.com/cute-clipart/48/000000/discord-logo.png) nigarumovum#6819
-- ![Steam](https://img.icons8.com/fluency/48/000000/steam.png) nigarumovum
-- ![EpicGames](https://img.icons8.com/cute-clipart/48/000000/epic-games--v1.png) nigarumovum
-- ![PubG](https://img.icons8.com/fluency/48/000000/pubg.png) nigarumovum
-- ![Smite](https://img.icons8.com/nolan/48/smite.png) Kryzard
-- ![CSGO](https://img.icons8.com/nolan/48/counter-strike.png) nigarumovum
-- ![GenshinImpact](https://img.icons8.com/fluency/48/000000/genshin-impact-logo.png) nigarumovum
-- ![YugiOh](https://img.icons8.com/color/48/000000/millennium-rod.png)Duel Links: nigarumovum
-<!-- 
-## Projects
-
-- [Portfolio](https://brealypadronrodriguez.vercel.app/)
-- [Portfolio MACOS](https://mac-os-desktop-app-react.vercel.app/)
-- [Tecnoelectro Comercio Online](https://tecnoelectrocomercioonline.com/)
-- [Skin Thing](https://skinthingcr.herokuapp.com/)
-- [Tarotly](https://tarotly-react.vercel.app/)
-- [Lyrics-browser](https://lyric-search-eosin.vercel.app/)
-- [Meal-Finder](https://meal-finder-sandy.vercel.app/)
-- [Exchange-rate Calculator](https://exchange-rate-tau.vercel.app/)
-- [Exprense-Tracker](https://expense-tracker-vert.vercel.app/)
-- [Tripping CR](https://tripincr.vercel.app/)
-- [Book-Freak](https://book-freak-react.vercel.app/)
-- [Movie-Finder](https://movie-finder-react-brealy.vercel.app/)
-- [NASA-Explorer](https://nasa-app-api.vercel.app/)
-- [Chat](https://chat-nodeexpect.herokuapp.com/) -->
-
-
-## 💰You can help me by Donating
-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nigarumovum) 
-- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/neighbordevcr) 
-
-
-# 💻Tech Stack
 ## Front-End Technologies:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
