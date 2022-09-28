@@ -2,7 +2,7 @@
 
 # About me:
 
-- 🧑🏻‍💻 A Computer Science Engineer & Full Stack Developer Specialist based in Costa Rica! 🇨🇷
+- 🧑🏻‍💻 A Software Engineer & Full Stack Developer Specialist based in Costa Rica! 🇨🇷
 
 - 📚 I’m ravenous of knowledge so I always enjoy learn the trends and new stuff related to my career so it allows to enhance my skills each day.  
 
