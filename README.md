@@ -11,7 +11,7 @@
 
 - 📚 I’m ravenous of knowledge so I always enjoy to learn more about I don't know or the trends related to my career so it allows me to get into new exciting projects enhancing my skills each day.  
 
-- I love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), the coffee with moderation! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about how the world works! ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), I like going to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png), mountains 🌄 and keep myself healthy doing some exercise and good food.
+- I love ![linux](https://img.icons8.com/color/48/000000/linux--v1.png), play the video games ![videog](https://img.icons8.com/color/24/000000/controller.png), the coffee with moderation! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about how the world works! ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), I like going to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png), mountains 🌄 and keep myself healthy doing some exercise and good food.
 
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -61,9 +61,8 @@
 
 ## DevOps Technologies: 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![bash](https://img.icons8.com/plasticine/50/000000/bash.png)
-![linux](https://img.icons8.com/color/48/000000/linux--v1.png)
-![git](https://img.icons8.com/color/48/000000/git.png)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
