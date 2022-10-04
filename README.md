@@ -2,17 +2,17 @@
 
 - <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a> 
 ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
-- 📚
 # About me:
 
 - 🧑🏻‍💻 a Full Stack Developer Specialist based in Costa Rica! 🇨🇷
-- 🧑🏻‍💻 a Software Engineering Student
+- 📚💻 a Software Engineering Student
 -  ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png) a Musician that plays Guitar, Drums & someone who sings.
-- G
 
+![linux](https://img.icons8.com/color/48/000000/linux--v1.png)
+![videog](https://img.icons8.com/color/24/000000/controller.png)
+![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
+![beach](https://img.icons8.com/fluency/24/000000/beach.png)🌄.
 
-- I love: ![linux](https://img.icons8.com/color/48/000000/linux--v1.png), ![videog](https://img.icons8.com/color/24/000000/controller.png), ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png), ![beach](https://img.icons8.com/fluency/24/000000/beach.png), 🌄.
-- 
 # Tech Stack:
 ## Collaboration:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
