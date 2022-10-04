@@ -4,16 +4,17 @@
 ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 # About me:
 
- - 🧑🏻‍💻 a Full Stack Developer Specialist based in Costa Rica! 🇨🇷
- - 📚 a Software Engineering Student.
- -  ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png) a Musician that plays Guitar, Drums & someone who sings.
+ 🧑🏻‍💻 a Full Stack Developer Specialist based in Costa Rica! 🇨🇷
+ 📚 a Software Engineering Student.
+  ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png) a Musician that plays Guitar, Drums & someone who sings.
 
 ![linux](https://img.icons8.com/color/48/000000/linux--v1.png)![videog](https://img.icons8.com/color/48/000000/controller.png)![cofee](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
- - Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a> 
+ Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a> 
 
 <h2  align="center"> Tech Stack:</h2>
 <h3  align="center"> Collaboration:</h3>
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+ 
 <h3  align="center"> Front-End:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
