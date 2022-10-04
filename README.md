@@ -12,9 +12,11 @@
  Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a> 
 
 <h2  align="center"> Tech Stack:</h2>
-<h3  align="center"> Collaboration:</h3>
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
  
+<h3  align="center"> Collaboration:</h3>
+
+ ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 <h3  align="center"> Front-End:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
