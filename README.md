@@ -5,7 +5,7 @@
 # About me:
 
 - 🧑🏻‍💻 a Full Stack Developer Specialist based in Costa Rica! 🇨🇷
-- 📚💻 a Software Engineering Student
+- 📚 a Software Engineering Student.
 -  ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png) a Musician that plays Guitar, Drums & someone who sings.
 
 ![linux](https://img.icons8.com/color/48/000000/linux--v1.png)
