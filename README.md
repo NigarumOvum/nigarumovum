@@ -1,4 +1,6 @@
-# Hi👋, Here [Brealy Padrón Rodríguez]([https://github.com/NigarumOvum/](https://brealypadronrodriguez.vercel.app/))
+# Hi👋, Here Brealy Padrón Rodríguez
+
+- <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a> 
 
 # About me:
 
@@ -9,8 +11,7 @@
 - 📚 I’m ravenous of knowledge so I always enjoy to learn more about I don't know or the trends related to my career so it allows me to get into new exciting projects enhancing my skills each day.  
 
 - I love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), the coffee with moderation! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about how the world works! ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), I like going to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png), mountains 🌄 and keep myself healthy doing some exercise and good food.
-- <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a> 
-
+- 
 ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 
 ## Front-End Technologies:
