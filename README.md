@@ -38,7 +38,8 @@
 ![bash](https://img.icons8.com/plasticine/50/000000/bash.png)
 ![linux](https://img.icons8.com/color/48/000000/linux--v1.png)
 ![git](https://img.icons8.com/color/48/000000/git.png)
-![ansible](https://img.icons8.com/color/48/000000/ansible.png)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
