@@ -3,10 +3,9 @@
 
 ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 # About me:
-
- 🧑🏻‍💻 a Full Stack Developer Specialist based in Costa Rica! 🇨🇷
- 📚 a Software Engineering Student.
-  ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png) a Musician that plays Guitar, Drums & someone who sings.
+ <p>  🧑🏻‍💻 a Full Stack Developer Specialist based in Costa Rica! 🇨🇷 </p>
+ <p> 📚 a Software Engineering Student. </p>
+ <p>   ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png) a Musician that plays Guitar, Drums & someone who sings. </p>
 
 ![linux](https://img.icons8.com/color/48/000000/linux--v1.png)![videog](https://img.icons8.com/color/48/000000/controller.png)![cofee](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
  Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a> 
