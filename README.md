@@ -3,7 +3,7 @@
 # About me:
 
 - 🧑🏻‍💻 a Full Stack Developer Specialist based in Costa Rica! 🇨🇷
-- 🧑🏻‍💻 a Software Engineerin Student
+- 🧑🏻‍💻 a Software Engineering Student
 - a Musician that plays Guitar, Drums & someone who sings.
 
 - 📚 I’m ravenous of knowledge so I always enjoy to learn more about I don't know or the trends related to my career so it allows me to get into new exciting projects enhancing my skills each day.  
