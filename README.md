@@ -1,11 +1,9 @@
 <div align="center">
 <h1  align="center"> Hi👋, I'm a Full Stack Software Developer Specialist🧑🏻‍💻 based in Costa Rica! 🇨🇷 </h1>
  
- <div align="center">
-![videog](https://img.icons8.com/color/48/000000/controller.png) <p>Add me in my <a href="https://brealypadronrodriguez.vercel.app/">gammer accounts</a></p>
-<div/>
+![videog](https://img.icons8.com/color/24/000000/controller.png) <p>Add me in my <a href="https://brealypadronrodriguez.vercel.app/">gammer accounts</a></p>
 
-![cofee](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png) <p>Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a></p>
+![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png) <p>Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a></p>
  
 ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 <h2  align="center"> Tech Stack:</h2>
@@ -92,7 +90,7 @@
 
 <h3  align="center"> Tech Stacks:</h3>
        
-<h2  align="center">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Stack:</h2>
+<h2  align="center"> Python Stacks:</h2>
  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -102,7 +100,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h2>Or</h2>
+<h3>Or</h3>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -116,9 +114,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- 
-<h2>Or</h2>
- 
+  
 <h2  align="center"> MEVN Stack: </h2>
  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
