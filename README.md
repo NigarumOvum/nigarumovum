@@ -75,8 +75,9 @@
 ![digitalo](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-shadow-tal-revivo.png)
 ![heroku](https://img.icons8.com/color/48/000000/heroku.png)
 ![netlify](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png)
-![redhat](https://img.icons8.com/color/48/000000/red-hat.png)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<!-- ![redhat](https://img.icons8.com/color/48/000000/red-hat.png) -->
+
 <h3  align="center"> Serverless:</h3>
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
