@@ -136,8 +136,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
-
 <h3  align="center"> 📊GitHub Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=nigarumovum&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
