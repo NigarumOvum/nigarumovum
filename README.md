@@ -1,7 +1,7 @@
 <div align="center">
 <h1  align="center"> Hi👋, I'm a Full Stack Software Developer Specialist🧑🏻‍💻 based in Costa Rica! 🇨🇷 </h1>
  
-<p>Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a>![videog](https://img.icons8.com/color/48/000000/controller.png)![cofee](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)</p>
+![videog](https://img.icons8.com/color/48/000000/controller.png)![cofee](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png) <p>Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a></p>
  
 ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 <h2  align="center"> Tech Stack:</h2>
