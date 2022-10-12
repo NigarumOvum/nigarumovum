@@ -1,7 +1,8 @@
 <div align="center">
 <h1  align="center"> Hi👋, I'm a Full Stack Software Developer Specialist🧑🏻‍💻 based in Costa Rica! 🇨🇷 </h1>
  
-![videog](https://img.icons8.com/color/48/000000/controller.png)![cofee](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png) <p>Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a></p>
+![videog](https://img.icons8.com/color/48/000000/controller.png) <p>Add me in my <a href="https://brealypadronrodriguez.vercel.app/">gammer accounts</a></p>
+![cofee](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png) <p>Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a></p>
  
 ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 <h2  align="center"> Tech Stack:</h2>
@@ -88,7 +89,7 @@
 
 <h3  align="center"> Tech Stacks:</h3>
        
-<h2  align="center"> Python Stack: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</h2>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <h2  align="center">Stack:</h2>
  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
