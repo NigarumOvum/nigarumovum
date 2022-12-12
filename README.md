@@ -131,8 +131,6 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
  
 <h3  align="center"> 📊GitHub Stats:</h3>
 
@@ -152,5 +150,7 @@
 <h2  align="center"> 💰You can help me by Donating:</h2>
 
 ## [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/neighbordevcr) or [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nigarumovum) 
+
+ ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 
 </div>
