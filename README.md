@@ -1,10 +1,7 @@
 <div align="center">
 <h1 > Hi👋   </h1>
 <h1 > ☕ I'm Specialist in Software Development Engineering 🧑🏻‍💻 </h1>
-<p>Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a></p>
- 
-![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
- 
+  
 <h1 align="center"> Tech Stack:</h1>
  
 <h3  align="center"> Collaboration:</h3>
@@ -135,6 +132,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
+ 
 <h3  align="center"> 📊GitHub Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=nigarumovum&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
