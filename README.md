@@ -2,7 +2,7 @@
 <h1  align="center"> Hi👋   </h1>
 <h1  align="center">  I'm a Full Stack Software Developer Specialist🧑🏻‍💻 based in Costa Rica! 🇨🇷 </h1>
  
-<p>Add me in my <a href="https://brealypadronrodriguez.vercel.app/gameAccounts">gammer accounts</a> ![videog](https://img.icons8.com/color/24/000000/controller.png)</p>
+<p>Add me in my <a href="https://brealypadronrodriguez.vercel.app/gameAccounts">gammer accounts</a> </p> ![videog](https://img.icons8.com/color/24/000000/controller.png)
 
 ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png) <p>Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a></p>
  
