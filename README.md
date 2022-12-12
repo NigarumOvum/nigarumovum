@@ -1,6 +1,6 @@
 <div align="center">
-<h1  align="center"> Hi👋   </h1>
-<h1  align="center"> ☕ I'm a Full Stack Software Developer Specialist🧑🏻‍💻 based in Costa Rica! 🇨🇷 </h1>
+<h1 > Hi👋   </h1>
+<h1 > ☕ I'm a Full Stack Software Developer Specialist🧑🏻‍💻 based in Costa Rica! 🇨🇷 </h1>
 <p>Visit my <a href="https://brealypadronrodriguez.vercel.app/">Web Potfolio</a></p>
 ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
  
