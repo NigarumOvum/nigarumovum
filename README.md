@@ -1,6 +1,6 @@
 <div align="center">
 <h1 > Hi👋   </h1>
-<h1 > ☕ I'm Specialist in Software Development Engineering 🧑🏻‍💻 </h1>
+<h1> ☕ I'm a Software & Systems Engineer Specialist 🧑🏻‍💻 </h1>
   
 <h1 align="center"> Tech Stack:</h1>
  
