@@ -1,4 +1,5 @@
 <div align="center">
+   ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 <h1> 👋☕ I'm a Software & Systems Engineering Specialist 🧑🏻‍💻 </h1>
   
 <h2 align="center"> Tech Stack:</h2>
@@ -70,10 +71,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 <!-- ![redhat](https://img.icons8.com/color/48/000000/red-hat.png) -->
 
-<h3  align="center"> Serverless:</h3>
-
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-<h3  align="center"> DevOps:</h3>
+<h3  align="center"> SRE | DevOps:</h3>
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
@@ -131,6 +129,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  
+ <h2 align="center">GitHub Info:</h2>
+ 
 <h4  align="center"> 📊GitHub Stats:</h4>
 
 ![](https://github-readme-stats.vercel.app/api?username=nigarumovum&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -146,10 +146,11 @@
 <h4 align="center"> 😂 Random Dev Meme:</h4>
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-<h1 align="center"> 💰You can help me by Donating:</h1>
+
+<h2 align="center">Tech Stacks:</h2>
+
+<h1 align="center"> 💰You can motivate me with my projects, invite me a coffe:</h1>
 
 ## [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/neighbordevcr) or [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nigarumovum) 
-
- ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 
 </div>
