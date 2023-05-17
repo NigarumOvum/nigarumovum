@@ -1,5 +1,4 @@
 <div align="center">
-   ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
 <h1> 👋☕ I'm a Software & Systems Engineering Specialist 🧑🏻‍💻 </h1>
   
 <h2 align="center"> Tech Stack:</h2>
@@ -154,3 +153,4 @@
 ## [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/neighbordevcr) or [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nigarumovum) 
 
 </div>
+![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
